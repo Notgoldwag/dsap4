@@ -1,4 +1,4 @@
-# CSCI 2720 Sorting Project
+# CSCI 2720 Assignment4
 
 **Authors:**
 - Rishab Subramaniyan (rks00476@uga.edu)
